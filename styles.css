@@ -29,9 +29,9 @@ p{
 }
 
 hr{
-    border: dotted #EAF6f6 6px;
+    border: thin #EAF6f6 10px;
     border-bottom: none;
-    width: 5%;
+    width: 15%;
     margin: 100px auto;
 
 }
